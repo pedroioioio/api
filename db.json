@@ -1,16 +1,16 @@
 {
-  "posts": [
+  "filmes": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+            "id": 1,
+            "titulo": "Espanta Tubarões",
+            "publicacao": "2004",
+            "genero": "Comédia",
+            "tempo": "1h30min",
+            "sinopse": "Um jovem peixe aspirante a herói se envolve em uma trama para salvar a cidade subaquática do malvado tubarão Don Lino.Diretor: Bibo Bergeron, Vicky Jenson, Rob Letterman",
+            "diretor": "Bibo Bergeron, Vicky Jenson, Rob Letterman",
+            "elenco": "Will Smith, Robert De Niro, Renée Zellweger",
+            "avaliacao": "6.9/10 (IMDb)",
+            "streaming": "Netflix, Amazon Prime Video"
     }
   ],
   "comments": [
