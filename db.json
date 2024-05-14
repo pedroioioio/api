@@ -1,4 +1,64 @@
 {
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Usuario Teste",
+            "senha": "senha123",
+            "sobre": "Eu sou apenas um usuario de testes",
+            "foto": "https://static.vecteezy.com/system/resources/thumbnails/002/534/006/small/social-media-chatting-online-blank-profile-picture-head-and-body-icon-people-standing-icon-grey-background-free-vector.jpg",
+            "Filmes Assistidos": [
+                1,
+                3,
+                5
+            ],
+            "Filmes que quero ver": [
+                3,
+                4
+            ],
+            "Filmes em Andamento": [
+                5,
+                6
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Pedro",
+            "senha": "123",
+            "sobre": "Amante de Filmes",
+            "foto": "https://i.pinimg.com/564x/62/94/bc/6294bc372b9581555b58bb514135d649.jpg",
+            "Filmes Assistidos": [
+                2,
+                4
+            ],
+            "Filmes que pretendo Assistir": [
+                3,
+                4
+            ],
+            "Filmes em Andamento": [
+                5,
+                6
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Natália",
+            "senha": "123",
+            "sobre": "Eu sou a Natália e sou uma amante de filmes de drama",
+            "foto": "https://i.pinimg.com/736x/12/6c/36/126c361095a11e70136dd9b617af13ba.jpg",
+            "Filmes Asssistidos": [
+                1,
+                6
+            ],
+            "Filmes que pretendo Assistir": [
+                3,
+                4
+            ],
+            "Filmes em Andamento": [
+                5,
+                6
+            ]
+        }
+    ],
   "filmes": [
     {
             "id": 1,
@@ -10,7 +70,177 @@
             "diretor": "Bibo Bergeron, Vicky Jenson, Rob Letterman",
             "elenco": "Will Smith, Robert De Niro, Renée Zellweger",
             "avaliacao": "6.9/10 (IMDb)",
-            "streaming": "Netflix, Amazon Prime Video"
+            "streaming": "Netflix, Amazon Prime Video",
+            "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1tPhFqGScPYbaLuczBnlFGjNUqj.jpg"
+    },
+    {
+            "id": 2,
+            "titulo": "Coraline",
+            "publicacao": "2009",
+            "genero": "Fantasia,Terror",
+            "tempo": "1h40min",
+            "sinopse": "Uma jovem descobre uma versão alternativa e sinistra de sua própria vida atrás de uma porta secreta em sua nova casa.",
+            "diretor": "Henry Selick",
+            "elenco": "Dakota Fanning, Teri Hatcher, John Hodgman",
+            "avaliacao": "7.7/10 (IMDb)",
+            "streaming": "Netflix, Amazon Prime Video",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg"
+    }
+    {
+            "id": 3,
+            "titulo": "As Panteras",
+            "publicacao": "2000",
+            "genero": "Comédia",
+            "tempo": "1h38min",
+            "sinopse": "Três mulheres detetives trabalham para um misterioso chefe, investigando casos e combatendo o crime.",
+            "diretor": "McG",
+            "elenco": "Cameron Diaz, Drew Barrymore, Lucy Liu",
+            "avaliacao": "5.5/10 (IMDb)",
+            "streaming": "Amazon Prime Video, Google Play, iTunes",
+            "imagem": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3ZZogKW7RFV0MjmAP6zNF19mkKF.jpg"
+    },
+  {
+            "id": 4,
+            "titulo": "Wall-E",
+            "publicacao": "2008",
+            "genero": "Aventura,Ficção Científica",
+            "tempo": "1h38min",
+            "sinopse": "Um robô compactador solitário é deixado na Terra para limpar o planeta coberto de lixo, até que ele encontra um novo propósito quando conhece uma robô sonda.",
+            "diretor": "Andrew Stanton",
+            "elenco": "Ben Burtt, Elissa Knight, Jeff Garlin",
+            "avaliacao": "8.4/10 (IMDb)",
+            "streaming": "Disney+, Amazon Prime Video, Google Play",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg"
+    },
+    {
+            "id": 5,
+            "titulo": "A Fuga das Galinhas",
+            "publicacao": "2000",
+            "genero": "Comédia, Aventura",
+            "tempo": "1h24min",
+            "sinopse": "Um grupo de galinhas tenta escapar de uma fazenda onde são mantidas em cativeiro para produção de ovos.",
+            "diretor": "Peter Lord, Nick Park",
+            "elenco": "Julia Sawalha, Mel Gibson, Miranda Richardson",
+            "avaliacao": "7.0/10 (IMDb)",
+            "streaming": "Amazon Prime Video, Google Play, iTunes",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hp5shw8xyuYId322rT9am3HrKCQ.jpg"
+    },
+    {
+            "id": 6,
+            "titulo": "A Família do Futuro",
+            "publicacao": "2007",
+            "genero": "Animação, Aventura, Comédia",
+            "tempo": "1h35min",
+            "sinopse": "Um jovem inventa uma máquina do tempo e acidentalmente a utiliza para levar sua família para um futuro onde eles encontram versões de si mesmos muito diferentes.",
+            "diretor": "Stephen J. Anderson",
+            "elenco": "Daniel Hansen, Wesley Singerman, Angela Bassett",
+            "avaliacao": "6.8/10 (IMDb)",
+            "streaming": "Disney+, Amazon Prime Video, Google Play",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uzmiicRYXYO4sb0pdQp6jS37ZX5.jpg"
+    },
+    {
+            "id": 7,
+            "titulo": "A Nova Onda do Imperador",
+            "publicacao": "2000",
+            "genero": "Animação, Aventura, Comédia",
+            "tempo": "1h18min",
+            "sinopse": "Um imperador arrogante é transformado em uma lhama por uma feiticeira vingativa e deve se aliar a um camponês para retomar seu trono.",
+            "diretor": "Mark Dindal",
+            "elenco": "David Spade, John Goodman, Eartha Kitt",
+            "avaliacao": "7.3/10 (IMDb)",
+            "streaming": "Disney+, Amazon Prime Video, Google Play",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wLeHgN6zdW1rfKP3KXJwa4AbJx.jpg"
+    },
+   {
+            "id": 8,
+            "titulo": "Anastasia",
+            "publicacao": "1997",
+            "genero": "Animação,Aventura,Drama",
+            "tempo": "1h24min",
+            "sinopse": "Uma jovem chamada Anastasia descobre que pode ser a última sobrevivente da realeza russa. Ela se junta a dois vigaristas encantadores em uma aventura épica para encontrar a verdade sobre seu passado, enfrentando uma poderosa feiticeira no caminho.",
+            "diretor": "Don Bluth, Gary Goldman",
+            "elenco": "Meg Ryan, John Cusack, Kelsey Grammer",
+            "avaliacao": "86% no Rotten Tomatoes",
+            "streaming": "Disney+",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3qbAX0cltrlbCXpgMmuv0LLrfp8.jpg"
+    },
+   {
+            "id": 9,
+            "titulo": "Central do Brasil",
+            "publicacao": "1998",
+            "genero": "Drama",
+            "tempo": "1h53min",
+            "sinopse": "Uma ex-professora, agora escritora de cartas para os analfabetos na Estação Central do Brasil, ajuda um menino a encontrar o pai perdido.",
+            "diretor": "Walter Salles",
+            "elenco": "Fernanda Montenegro, Vinícius de Oliveira",
+            "avaliacao": "92% no Rotten Tomatoes",
+            "streaming": "Amazon Prime Video",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/20gvOww3EDFaDZyNowVGAHtXo0H.jpg"
+    },
+    {
+            "id": 10,
+            "titulo": "Romeu e Julieta",
+            "publicacao": "1996",
+            "genero": "Drama, Romance",
+            "tempo": "2h0min",
+            "sinopse": "Uma adaptação moderna do clássico de Shakespeare, onde duas famílias em guerra têm seus filhos se apaixonando tragicamente.",
+            "diretor": "Baz Luhrmann",
+            "elenco": "Leonardo DiCaprio, Claire Danes",
+            "avaliacao": "72% no Rotten Tomatoes",
+            "streaming": "Amazon Prime Video",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/anxOZzK9xStnzVdxQZxBA9E2ZGS.jpg"
+    },
+    {
+            "id": 11,
+            "titulo": "Notting Hill",
+            "publicacao": "1999",
+            "genero": "Romance",
+            "tempo": "2h4min",
+            "sinopse": "A vida de um dono de livraria em Notting Hill muda drasticamente quando ele se encontra em um relacionamento com a famosa atriz americana que entra em sua loja.",
+            "diretor": "Roger Michell",
+            "elenco": "Julia Roberts, Hugh Grant",
+            "avaliacao": "83% no Rotten Tomatoes",
+            "streaming": "Netflix",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9yFgNvFK870icK6SvTdeVyEjXN4.jpg"
+    },
+    {
+            "id": 12,
+            "titulo": "Forrest Gump",
+            "publicacao": "1994",
+            "genero": "Drama, Romance",
+            "tempo": "2h22min",
+            "sinopse": "A história de um homem com QI abaixo da média que participa de vários eventos significativos na história dos Estados Unidos ao longo de várias décadas.",
+            "diretor": "Robert Zemeckis",
+            "elenco": "Tom Hanks, Robin Wright",
+            "avaliacao": "71% no Rotten Tomatoes",
+            "streaming": "Amazon Prime Video",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d74WpIsH8379TIL4wUxDneRCYv2.jpg"
+    },
+    {
+            "id": 13,
+            "titulo": "Dead Poets Society",
+            "publicacao": "1989",
+            "genero": "Drama",
+            "tempo": "2h08min",
+            "sinopse": "O novo professor de Inglês John Keating é introduzido a uma escola preparatória de meninos que é conhecida por suas antigas tradições e alto padrão. Ele usa métodos pouco ortodoxos para atingir seus alunos, que enfrentam enormes pressões de seus pais e da escola. Com a ajuda de Keating, os alunos Neil Perry, Todd Anderson e outros aprendem como não serem tão tímidos, seguir seus sonhos e aproveitar cada dia.",
+            "diretor": "Peter Weir",
+            "elenco": "Robin Williams, Ethan Hawke, Robert Sean Leonard",
+            "avaliacao": "9.5/10 (IMDb)",
+            "streaming": "Star +",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gMmbJEqEzupp4BYTcRkNsPDPvQE.jpg"
+    },
+    {
+            "id": 14,
+            "titulo": "Eternal Sunshine",
+            "publicacao": "2004",
+            "genero": "Drama",
+            "tempo": "1h48min",
+            "sinopse": "Joel (Jim Carrey) e Clementine (Kate Winslet) formavam um casal que durante anos tentaram fazer com que o relacionamento desse certo. Desiludida com o fracasso, Clementine decide esquecer Joel para sempre e, para tanto, aceita se submeter a um tratamento experimental, que retira de sua memória os momentos vividos com ele. Após saber de sua atitude Joel entra em depressão, frustrado por ainda estar apaixonado por alguém que quer esquecê-lo. Decidido a superar a questão, Joel também se submete ao tratamento experimental. Porém ele acaba desistindo de tentar esquecê-la e começa a encaixar Clementine em momentos de sua memória os quais ela não participa.",
+            "diretor": "Michel Gondry",
+            "elenco": "Jim Carrey, Kate Winslet, Kirsten Dunst",
+            "avaliacao": "9.5/10 (IMDb)",
+            "streaming": "Amazon Prime Video",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fQS6DsbA0T465kW2gz2WGmHXIh3.jpg"
     }
   ],
   "comments": [
