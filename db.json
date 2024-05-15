@@ -78,7 +78,7 @@
             "streaming": "Disney+, Amazon Prime Video, Google Play",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wLeHgN6zdW1rfKP3KXJwa4AbJx.jpg"
     },
-   {
+    {
             "id": 7,
             "titulo": "Anastasia",
             "publicacao": "1997",
@@ -91,7 +91,7 @@
             "streaming": "Disney+",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3qbAX0cltrlbCXpgMmuv0LLrfp8.jpg"
     },
-   {
+    {
             "id": 8,
             "titulo": "Central do Brasil",
             "publicacao": "1998",
@@ -169,3 +169,5 @@
             "streaming": "Amazon Prime Video",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fQS6DsbA0T465kW2gz2WGmHXIh3.jpg"
     }
+  ]
+}
