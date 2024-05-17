@@ -10,7 +10,7 @@
             "diretor": "Bibo Bergeron, Vicky Jenson, Rob Letterman",
             "elenco": "Will Smith, Robert De Niro, Renée Zellweger",
             "avaliacao": "6.9/10 (IMDb)",
-            "streaming": "Netflix, Amazon Prime Video",
+            "streaming": "Netflix, Prime Video",
             "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1tPhFqGScPYbaLuczBnlFGjNUqj.jpg"
     },
     {
@@ -23,7 +23,7 @@
             "diretor": "Henry Selick",
             "elenco": "Dakota Fanning, Teri Hatcher, John Hodgman",
             "avaliacao": "7.7/10 (IMDb)",
-            "streaming": "Netflix, Amazon Prime Video",
+            "streaming": "Netflix, Prime Video",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rranXmvqPT4NoXzmxhFtXr9nNYT.jpg"
     },
     {
@@ -36,7 +36,7 @@
             "diretor": "Andrew Stanton",
             "elenco": "Ben Burtt, Elissa Knight, Jeff Garlin",
             "avaliacao": "8.4/10 (IMDb)",
-            "streaming": "Disney+, Amazon Prime Video, Google Play",
+            "streaming": "Disney+, Prime Video, Google Play",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg"
     },
     {
@@ -49,7 +49,7 @@
             "diretor": "Peter Lord, Nick Park",
             "elenco": "Julia Sawalha, Mel Gibson, Miranda Richardson",
             "avaliacao": "7.0/10 (IMDb)",
-            "streaming": "Amazon Prime Video, Google Play, iTunes",
+            "streaming": "Prime Video, Google Play, iTunes",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hp5shw8xyuYId322rT9am3HrKCQ.jpg"
     },
     {
@@ -62,7 +62,7 @@
             "diretor": "Stephen J. Anderson",
             "elenco": "Daniel Hansen, Wesley Singerman, Angela Bassett",
             "avaliacao": "6.8/10 (IMDb)",
-            "streaming": "Disney+, Amazon Prime Video, Google Play",
+            "streaming": "Disney+,Prime Video, Google Play",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uzmiicRYXYO4sb0pdQp6jS37ZX5.jpg"
     },
     {
@@ -75,7 +75,7 @@
             "diretor": "Mark Dindal",
             "elenco": "David Spade, John Goodman, Eartha Kitt",
             "avaliacao": "7.3/10 (IMDb)",
-            "streaming": "Disney+, Amazon Prime Video, Google Play",
+            "streaming": "Disney+,Prime Video, Google Play",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/wLeHgN6zdW1rfKP3KXJwa4AbJx.jpg"
     },
     {
@@ -101,7 +101,7 @@
             "diretor": "Walter Salles",
             "elenco": "Fernanda Montenegro, Vinícius de Oliveira",
             "avaliacao": "92% no Rotten Tomatoes",
-            "streaming": "Amazon Prime Video",
+            "streaming": "Prime Video",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/20gvOww3EDFaDZyNowVGAHtXo0H.jpg"
     },
     {
@@ -114,7 +114,7 @@
             "diretor": "Baz Luhrmann",
             "elenco": "Leonardo DiCaprio, Claire Danes",
             "avaliacao": "72% no Rotten Tomatoes",
-            "streaming": "Amazon Prime Video",
+            "streaming": "Prime Video",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/anxOZzK9xStnzVdxQZxBA9E2ZGS.jpg"
     },
     {
@@ -140,7 +140,7 @@
             "diretor": "Robert Zemeckis",
             "elenco": "Tom Hanks, Robin Wright",
             "avaliacao": "71% no Rotten Tomatoes",
-            "streaming": "Amazon Prime Video",
+            "streaming": "Prime Video",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/d74WpIsH8379TIL4wUxDneRCYv2.jpg"
     },
     {
@@ -162,11 +162,11 @@
             "publicacao": "2004",
             "genero": "Drama",
             "tempo": "1h48min",
-            "sinopse": "Joel e Clementine, são um casal que luta por seu relacionamento .Clementine decide esquecer Joel através de um tratamento experimental que apaga as memórias. Ele também faz um tratamento, mas muda de ideia e tenta manter Clementine em suas memórias, inserindo-a em momentos dos quais ela originalmente não fazia parte.",
+            "sinopse": "Joel e Clementine, são um casal que luta por seu relacionamento .Clementine decide esquecer através de um tratamento experimental que apaga as memórias. Joel faz um tratamento, mas muda de ideia e tenta manter Clementine em suas memórias, inserindo-a em momentos dos quais ela originalmente não fazia parte.",
             "diretor": "Michel Gondry",
             "elenco": "Jim Carrey, Kate Winslet, Kirsten Dunst",
             "avaliacao": "9.5/10 (IMDb)",
-            "streaming": "Amazon Prime Video",
+            "streaming": "Prime Video",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fQS6DsbA0T465kW2gz2WGmHXIh3.jpg"
     },
 
@@ -180,7 +180,7 @@
             "diretor": "Peter Weir",
             "elenco": "Jim Carrey, Laura Linney, Natascha McElhone",
             "avaliacao": "9.5/10 (IMDb)",
-            "streaming": "Amazon Prime Video",
+            "streaming": "Prime Video",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5lnCIDrH6yujeuJ16CGPoFktKd6.jpg"
     }
   ]
