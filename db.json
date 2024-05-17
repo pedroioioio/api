@@ -149,7 +149,7 @@
             "publicacao": "1989",
             "genero": "Drama",
             "tempo": "2h08min",
-            "sinopse": "O novo professor de Inglês John Keating é introduzido a uma escola preparatória de meninos que é conhecida por suas antigas tradições e alto padrão. Ele usa métodos pouco ortodoxos para atingir seus alunos, que enfrentam enormes pressões de seus pais e da escola. Com a ajuda de Keating, os alunos Neil Perry, Todd Anderson e outros aprendem como não serem tão tímidos, seguir seus sonhos e aproveitar cada dia.",
+            "sinopse": "John Keating, o novo professor de Inglês em uma escola preparatória tradicional e rigorosa, emprega métodos não convencionais para ensinar seus alunos, que enfrentam grandes pressões dos pais e da escola. Com a orientação de Keating, os alunos, incluindo Neil Perry e Todd Anderson, aprendem a superar a timidez, perseguir seus sonhos e valorizar cada dia.",
             "diretor": "Peter Weir",
             "elenco": "Robin Williams, Ethan Hawke, Robert Sean Leonard",
             "avaliacao": "9.5/10 (IMDb)",
@@ -162,12 +162,26 @@
             "publicacao": "2004",
             "genero": "Drama",
             "tempo": "1h48min",
-            "sinopse": "Joel (Jim Carrey) e Clementine (Kate Winslet) formavam um casal que durante anos tentaram fazer com que o relacionamento desse certo. Desiludida com o fracasso, Clementine decide esquecer Joel para sempre e, para tanto, aceita se submeter a um tratamento experimental, que retira de sua memória os momentos vividos com ele. Após saber de sua atitude Joel entra em depressão, frustrado por ainda estar apaixonado por alguém que quer esquecê-lo. Decidido a superar a questão, Joel também se submete ao tratamento experimental. Porém ele acaba desistindo de tentar esquecê-la e começa a encaixar Clementine em momentos de sua memória os quais ela não participa.",
+            "sinopse": "Joel e Clementine, são um casal que luta para fazer seu relacionamento dar certo. Quando Clementine decide esquecer Joel através de um tratamento experimental que apaga as memórias dele. Ele também faz um tratamento, mas muda de ideia e tenta manter Clementine em suas memórias, inserindo-a em momentos dos quais ela originalmente não fazia parte.",
             "diretor": "Michel Gondry",
             "elenco": "Jim Carrey, Kate Winslet, Kirsten Dunst",
             "avaliacao": "9.5/10 (IMDb)",
             "streaming": "Amazon Prime Video",
             "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fQS6DsbA0T465kW2gz2WGmHXIh3.jpg"
+    },
+
+    {
+      "id": 14,
+            "titulo": "O show de Truman",
+            "publicacao": "1998",
+            "genero": "Drama",
+            "tempo": "1h43min",
+            "sinopse": "Truman Burbank é um tranquilo vendedor de seguros que vive uma vida simples com sua esposa Meryl Burbank . Porém, algumas coisas ao seu redor fazem com que ele comece a se sentir estranho em relação à sua cidade, aos seus supostos amigos e até mesmo à sua esposa. Após conhecer a misteriosa Lauren , ele fica intrigado e acaba descobrindo que toda a sua vida foi monitorada por câmeras e transmitida em rede nacional.",
+            "diretor": "Peter Weir",
+            "elenco": "Jim Carrey, Laura Linney, Natascha McElhone",
+            "avaliacao": "9.5/10 (IMDb)",
+            "streaming": "Amazon Prime Video",
+            "imagem":"https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5lnCIDrH6yujeuJ16CGPoFktKd6.jpg"
     }
   ]
 }
